@@ -4,7 +4,7 @@
 ![Cover](https://github.com/CPSystemsWithEventB/APSEC2022-Notation/blob/main/SCP_Notations.jpg)
 
 ## The generic models
-[The Event-B generic models (Pdf sources)](https://github.com/CPSsWithEventB/SAC2023-GenericModels)
+[The Event-B generic models (Pdf sources)](https://github.com/CPSsWithEventB/SAC2023-GenericModels/blob/main/GenericModel_.pdf)
 
 ## Case Studies
 [The Event-B models for the Water Tank case study(Pdf sources)](https://github.com/CPSystemsWithEventB/APSEC2022-Water-Tank/blob/main/WaterTankSystem.pdf)
